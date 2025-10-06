@@ -13,11 +13,11 @@ A customizable house constructor project that allows users to design and build t
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/Teacher0707/house-constructor
    ```
 2. **Navigate to the project directory:**
    ```bash
-   cd your-repo-name
+   cd house-constructor
    ```
 3. **Follow setup instructions (add steps here for dependencies, installation, or running the project).**
 
